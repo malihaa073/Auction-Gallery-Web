@@ -3,8 +3,7 @@
 A React-based auction web app that allows users to view, bid on, and favorite auction items. This project is ideal for practicing React fundamentals, props, state management, JSON handling, and UI/UX replication from Figma.
 
 ---
-##  netlify live link:https://helpful-faun-4c6140.netlify.app/
-
+##   live link:https://grand-stardust-d59998.netlify.app/
 ## 📌 Main Requirements
 
 ### ✅ Navbar
