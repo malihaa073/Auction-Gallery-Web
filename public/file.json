@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "Classic Leica M3 35mm film camera, well-preserved with original lens and leather case.",
+      "currentBidPrice": 9800,
+      "timeLeft": "2 Days Left",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/xS6YCDM3/Bid1-min.png",
+       "bid": "https://img.icons8.com/?size=100&id=pYZPPIM3VO5h&format=png&color=000000",
+      "liked-bid":"https://img.icons8.com/?size=100&id=fc27V82Wta6I&format=png&color=000000"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "Iconic vintage Gibson SG with original pickups and cherry finish.",
+      "currentBidPrice": 15200,
+      "timeLeft": "2 Days Left",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/8DTkKpYf/Bid2-min.png",
+       "bid": "https://img.icons8.com/?size=100&id=pYZPPIM3VO5h&format=png&color=000000",
+      "liked-bid":"https://img.icons8.com/?size=100&id=fc27V82Wta6I&format=png&color=000000"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Apple’s first Macintosh computer, in excellent condition with mouse and keyboard.",
+      "currentBidPrice": 24000,
+      "timeLeft": "12 Days Left",
+      "bidsCount": 25,
+      "image": "https://i.ibb.co.com/Vckh32n7/Bid3-min.png",
+       "bid": "https://img.icons8.com/?size=100&id=pYZPPIM3VO5h&format=png&color=000000",
+      "liked-bid":"https://img.icons8.com/?size=100&id=fc27V82Wta6I&format=png&color=000000"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Luxury stainless steel diver's watch with classic black bezel.",
+      "currentBidPrice": 7200,
+      "timeLeft": "2 Days Left",
+      "bidsCount": 30,
+      "image": "https://i.ibb.co.com/23Hv6HVc/Bid4-min.png",
+       "bid": "https://img.icons8.com/?size=100&id=pYZPPIM3VO5h&format=png&color=000000",
+      "liked-bid":"https://img.icons8.com/?size=100&id=fc27V82Wta6I&format=png&color=000000"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Rare first edition of a literary masterpiece, well-preserved with original dust jacket.",
+      "currentBidPrice": 31000,
+      "timeLeft": "2 Days Left",
+      "bidsCount": 21,
+      "image": "https://i.ibb.co.com/mFrRLSkn/Bid5-min.png",
+       "bid": "https://img.icons8.com/?size=100&id=pYZPPIM3VO5h&format=png&color=000000",
+      "liked-bid":"https://img.icons8.com/?size=100&id=fc27V82Wta6I&format=png&color=000000"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Classic Eames lounge chair and ottoman in rosewood and leather.",
+      "currentBidPrice": 5800,
+      "timeLeft": "2 Days Left",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co.com/v0nd1Zg/Bid6-min.png",
+      "bid": "https://img.icons8.com/?size=100&id=pYZPPIM3VO5h&format=png&color=000000",
+      "liked-bid":"https://img.icons8.com/?size=100&id=fc27V82Wta6I&format=png&color=000000"
+    }
+  ]
+  
